@@ -1,1 +1,1 @@
-# cs-uml
+# Cheat Sheet - UML
