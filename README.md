@@ -45,3 +45,37 @@ Merise et UML sont deux approches de modélisation aux objectifs distincts :
 - **Complexité** : Difficulté à maîtriser pour les débutants.  
 - **Temps et effort** : Long à mettre en œuvre pour des projets simples.  
 - **Dépendance aux outils** : Nécessite des logiciels spécifiques, souvent coûteux.  
+
+---
+
+### Diagrammes
+
+UML (Unified Modeling Language) propose **14 types de diagrammes**, répartis en deux grandes catégories : **diagrammes structurels** et **diagrammes comportementaux**. Voici la liste complète :
+
+---
+
+### **1. Diagrammes structurels**  
+Ces diagrammes décrivent l'organisation et la structure statique d'un système.
+
+1. **Diagramme de classes** : Représente les classes, leurs attributs, méthodes et relations.
+2. **Diagramme de composants** : Montre les composants logiciels et leurs relations.
+3. **Diagramme de déploiement** : Décrit la répartition physique des composants sur les nœuds (serveurs, machines, etc.).
+4. **Diagramme d’objets** : Montre un instantané des objets et leurs relations à un moment donné.
+5. **Diagramme de structure composite** : Illustre la structure interne d’une classe ou d’un composant.
+6. **Diagramme de paquets** : Regroupe les éléments en ensembles logiques pour organiser le système.
+
+---
+
+### **2. Diagrammes comportementaux**  
+Ces diagrammes modélisent la dynamique du système et les interactions entre ses éléments.
+
+1. **Diagramme de cas d’utilisation** : Décrit les interactions entre les acteurs et le système (fonctionnalités attendues).
+2. **Diagramme de séquence** : Représente l’ordre des messages échangés entre objets dans une interaction.
+3. **Diagramme de communication** : Montre les interactions entre objets sous forme de liens et messages échangés.
+4. **Diagramme d’activités** : Modélise les flux de travail ou les processus métier.
+5. **Diagramme d’états** : Décrit les états d’un objet et les transitions déclenchées par des événements.
+6. **Diagramme de synchronisation** : Représente l’interaction entre systèmes parallèles ou threads.
+7. **Diagramme de temps** : Illustre le comportement d’objets ou de processus en fonction du temps.
+8. **Diagramme d’interaction** : Combine plusieurs diagrammes pour représenter les interactions complexes.
+
+---
