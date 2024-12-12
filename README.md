@@ -50,9 +50,7 @@ Merise et UML sont deux approches de modélisation aux objectifs distincts :
 
 ### Diagrammes
 
-UML (Unified Modeling Language) propose **14 types de diagrammes**, répartis en deux grandes catégories : **diagrammes structurels** et **diagrammes comportementaux**. Voici la liste complète :
-
----
+UML (Unified Modeling Language) propose **14 types de diagrammes**, répartis en deux grandes catégories : **diagrammes structurels** et **diagrammes comportementaux** :
 
 ### **1. Diagrammes structurels**  
 Ces diagrammes décrivent l'organisation et la structure statique d'un système.
